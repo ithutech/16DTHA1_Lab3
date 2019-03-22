@@ -9,8 +9,7 @@ namespace WebBook.Controllers
 {
     public class BookController : Controller
     {
-        // GET: Book
-        //Code them - Thay Anh
+        //ABC
         public ActionResult Index()
         {
             var books = new List<Book>();
